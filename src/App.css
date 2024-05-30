@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    padding-left: 20%;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #eba4a4; /* Background color for the body */
+  }
+  

@@ -1,0 +1,108 @@
+.play-btn{
+    background-color: green;
+    margin: 10px;
+    width:100px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 16px;
+    box-shadow: 2px 2px;
+    text-decoration: none;
+
+}
+.home-page {
+    padding: 100%;
+    margin: 30px;
+    margin-left: 100px;
+    border-radius: 10px;
+    width: 100%; 
+    max-width: 600px; }
+  
+   .page{ 
+    background-color: #610fce; 
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%; 
+    max-width: 600px; 
+}
+.heading{
+    display: flex;
+    padding-top: 0;
+    justify-content: center;
+}
+.question{
+   padding-left: 150px;  
+}
+.options{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.options button{
+    padding: 10px;
+    border-radius: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 2px;
+     height: 30px;
+    width: 250px;
+}
+.blue{
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    padding-right: 10px;
+    margin: 3px;
+}
+.green{
+    background-color: green;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    border: none;
+    margin: 3px;
+}
+    .red{
+        margin: 3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: red;
+        border-radius: 10px;
+        border: none;
+    }
+    .gray{
+    margin: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: gray;
+    border-radius: 10px;
+    border: none;
+
+}
+.nav-btn{
+    display: flex;
+    justify-content: center;
+}
+.score{
+    color:blue;
+    font-size: 40px;
+}
+.result-page{
+    display: flexbox;
+    justify-content: center;
+    padding: 100px;
+    margin-left:150px;
+    padding-left: 200px;
+    padding-right: 200px;
+
+    background-color: aliceblue;
+}
+.dis{
+    font-size: 20px;
+}
+.space{
+    padding-right: 50px;
+}
